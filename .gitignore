@@ -1,0 +1,21 @@
+.env
+results/*.csv
+figures/*.png
+figures/*.csv
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+*.egg-info/
+dist/
+build/
